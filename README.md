@@ -1,5 +1,5 @@
 # kubequick
-A bash script to check a Kubernetes namespace for pods and quickly select a pod to exec into.
+A bash script to list and use Kubernetes pods in your cluster.
 
 
 ## What happens when I run this script?
