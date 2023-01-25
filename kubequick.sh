@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Enter namespace (default for default namespace): "
+echo "Enter namespace (Press enter for default namespace): "
 read namespace
 
 if [ -z "$namespace" ]; then
